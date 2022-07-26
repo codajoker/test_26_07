@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { NavLink } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import * as palette from '../../variables/Variables';
 import { Button } from '../../styles/Button.styled';
