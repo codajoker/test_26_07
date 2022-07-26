@@ -1,0 +1,87 @@
+{
+  "serials": [
+    {
+      "title": "The Matrix",
+      "id": "tt0133093",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "series": [
+         {
+          "url": "https://www.youtube.com/embed/d3MtiAqUHR8",
+          "number": 1
+        },
+        {
+          "url": "https://www.youtube.com/embed/Mmq_NVwLN_g",
+          "number": 2
+        },
+        {
+          "url": "https://www.youtube.com/embed/L5PW5r3pEOg",
+          "number": 3
+        },
+        {
+          "url": "https://www.youtube.com/embed/",
+          "number": 4
+        },
+        {
+          "url": "https://www.youtube.com/embed/u7JsKhI2An0",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "title": "The Matrix Reloaded",
+      "id": "tt0234215",
+      "img_url": "https://www.kino-teatr.ru/movie/posters/big/9/130649.jpg",
+
+      "series": [
+         {
+          "url": "https://www.youtube.com/embed/d3MtiAqUHR8",
+          "number": 1
+        },
+        {
+          "url": "https://www.youtube.com/embed/Mmq_NVwLN_g",
+          "number": 2
+        },
+        {
+          "url": "https://www.youtube.com/embed/L5PW5r3pEOg",
+          "number": 3
+        },
+        {
+          "url": "https://www.youtube.com/embed/",
+          "number": 4
+        },
+        {
+          "url": "https://www.youtube.com/embed/u7JsKhI2An0",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "title": "The God Revolutions",
+      "id": "tt0242653",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSapIYb_nXa5isOHiAuS3aIypct1GCOC-zQ&usqp=CAU",
+
+      "series":[
+         {
+          "url": "https://www.youtube.com/embed/d3MtiAqUHR8",
+          "number": 1
+        },
+        {
+          "url": "https://www.youtube.com/embed/Mmq_NVwLN_g",
+          "number": 2
+        },
+        {
+          "url": "https://www.youtube.com/embed/L5PW5r3pEOg",
+          "number": 3
+        },
+        {
+          "url": "https://www.youtube.com/embed/",
+          "number": 4
+        },
+        {
+          "url": "https://www.youtube.com/embed/u7JsKhI2An0",
+          "number": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+.movieList {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 16px;
+    justify-items: center;
+    padding: 0;
+}
+
+.movieItem {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    padding: 5px;
+    background-color: #282c34;
+    border-radius: 5px;
+    transition: all 500ms cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+
+}
+
+.movieItem:hover {
+    background-color: #fff;
+    color: #000;
+    transform: scale(1.04);
+}
+
+
+@media (min-width: 440px) {
+    .movieItem {
+        width: 200px;
+    }
+}
+
+.movieTitle {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1em;
+    text-align: center;
+    padding: 8px 0;
+}
+
+.img {
+    border-radius: 5px;
+    width: 250px;
+}
+
+@media (min-width: 440px) {
+    .img {
+        width: 200px;
+    }
+}
+
+.movieContainer {
+    position: relative;
+}
+
+.upBtn {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    z-index: 1;
+    font-weight: 600;
+
+    text-transform: uppercase;
+    border-radius: 50%;
+    padding: 12px 12px;
+    opacity: 0.7;
+
+    box-shadow: 0 -200px 100px -120px rgb(255, 235, 58) inset;
+    animation: background 3s infinite cubic-bezier(0.0, 0, 0.2, 1) 0ms;
+}
+
+@keyframes background {
+    50% {
+        box-shadow: 0 -200px 100px -100px rgb(39, 238, 252) inset;
+    }
+}
